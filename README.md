@@ -123,3 +123,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or questions, please contact me at:
 - **Email:** [divyanshsaini.mzn@gmail.com](mailto:divyanshsaini.mzn@gmail.com)
+
+Screenshots:-
+![Screenshot 2024-08-18 152159](https://github.com/user-attachments/assets/690f58ee-c356-486c-ae0b-0ea3a087d150)
+
